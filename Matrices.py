@@ -94,5 +94,8 @@ class Matrix:
         return Matrix([[self.matrix[i][j] + B.matrix[i][j] for j in range(len(self.matrix[0]))] for i in range(len(self.matrix))])
     
     def __sub__(self,B):
+        """
+        Resta de matrices
+        """
         return Matrix([[self.matrix[i][j] - B.matrix[i][j] for j in range(len(self.matrix[0]))] for i in range(len(self.matrix))])
     
