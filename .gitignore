@@ -1,0 +1,41 @@
+*__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+*.dist-info
+*.whl
+*.db
+*.sqlite3
+*.log
+*.bak
+*.swp
+*.tmp
+*.pid
+*.coverage
+*.DS_Store
+*.idea
+*.vscode
+*.env
+*.venv
+*.pytest_cache
+*.mypy_cache
+*.tox
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# PyCharm project files
+.idea/
+# Visual Studio Code settings
+.vscode/
+# PyInstaller
+# PyInstaller creates a lot of files, including .spec files
+*.spec
+# Distribution / packaging
+dist/
+build/
+# PyInstaller
+# PyInstaller creates a lot of files, including .spec files
+# PyInstaller creates a lot of files, including .spec files
+# PyInstaller creates a lot of files, including .spec files                     
